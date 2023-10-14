@@ -1,0 +1,11 @@
+.btn_navbar{
+    background-color: #8b34d2;
+    color: white;
+}
+
+.btn_navbar:hover{
+    background-color: #8A22E0;
+    color: white;
+    transition: 1s ease-in-out;
+    transform: translateY(-3px);
+}
