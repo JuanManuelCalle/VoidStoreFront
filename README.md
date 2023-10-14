@@ -1,6 +1,6 @@
 # VoidStore - Tu eCommerce en línea
 
-![VoidStore Logo](/path/to/logo.png)
+![VoidStore Logo](/public/VoidStoreLogo.jpg)
 
 Bienvenido a VoidStore, tu solución de eCommerce en línea. Con VoidStore, puedes crear una tienda en línea personalizada, administrar tus productos y ventas, y proporcionar a tus clientes una experiencia de compra sin problemas.
 
